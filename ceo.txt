@@ -1,0 +1,17 @@
+salary = 1999 salary + bonuses
+totcomp = 1999 CEO total compensation
+tenure = # of years as CEO (=0 if less than 6 months)
+age = age of CEO
+sales = total 1998 sales revenue of firm i
+profits = 1998 profits for firm i
+assets = total assets of firm i in 1998
+
+1999 salary, total compensation, tenure, and age were collected from Forbes' 1999 list
+of Corporate America's Most Powerful People (http://www.forbes.com/ceos/)
+
+1998 sales, profits, and assets were collected from Fortune Magazine's 1999
+Fortune 500 list (http://www.pathfinder.com/fortune/fortune500/index.html)
+
+52 of the Fortune 500 firms were excluded because of missing data on one or
+more variables. Apple Computer was also excluded since Steve Jobs, the acting
+CEO of Apple in 1998, received no compensation during this period.
